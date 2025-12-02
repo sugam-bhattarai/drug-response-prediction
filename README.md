@@ -6,6 +6,7 @@
 [![Machine Learning](https://img.shields.io/badge/ML-Scikit--learn-yellow.svg)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Deployment](https://img.shields.io/badge/Deployed-Streamlit%20Cloud-purple.svg)](https://drug-response-prediction.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Click_Here-FF4B4B?style=for-the-badge)](https://drug-response-prediction.streamlit.app)
 
 ## 🎯 Project Overview
 
